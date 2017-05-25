@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2EC2D8211D12A8BFAF5715527CF0C26ADF82A4C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "460DABF1A4DB85BD016D7C05EB9258867E41360F" : 9223372036854775807,
+    "2EC2D8211D12A8BFAF5715527CF0C26ADF82A4C7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76A661CF-7EEE-4EA8-B406-F8F235A38E5F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "460DABF1A4DB85BD016D7C05EB9258867E41360F" : "",
+    "2EC2D8211D12A8BFAF5715527CF0C26ADF82A4C7" : "MemeApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Meme App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Meme App\/Meme App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smusaran\/Meme-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EC2D8211D12A8BFAF5715527CF0C26ADF82A4C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/smusaran\/PitchPerfect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "460DABF1A4DB85BD016D7C05EB9258867E41360F"
+    }
+  ]
+}
